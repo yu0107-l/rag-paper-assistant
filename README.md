@@ -1,5 +1,4 @@
-# rag-paper-assistant
-A RAG-based paper reading assistant built with LangChain, ChromaDB, Flask and GPT-4o.
+
 # RAG 智能论文阅读助手
 
 本项目是一个面向实验室论文阅读场景的 RAG 智能问答系统。系统基于 LangChain、ChromaDB、OpenAI Embedding、GPT-4o、Flask 与 Redis 构建，支持 PDF 论文解析、向量检索、上下文问答、Prompt 模板切换、SSE 流式输出与高频问题缓存。
