@@ -1,0 +1,13 @@
+flask
+flask-cors
+langchain
+langchain-openai
+chromadb
+openai
+pymupdf
+redis
+python-dotenv
+jinja2
+pyyaml
+numpy
+tiktoken
